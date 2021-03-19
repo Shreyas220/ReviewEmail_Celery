@@ -1,0 +1,6 @@
+Hello ((name|safe))
+Here is your copy of your review:
+((review|safe))
+
+
+Thank you!
